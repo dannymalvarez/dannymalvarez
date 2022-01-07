@@ -1,8 +1,14 @@
-- Hi, I'm Daniel Alvarez (@dannymalvarez)!
-- I'm interested in one of the weirdest assortments you could imagine. If I had to list a few: DIY, working on cars and small engines, maintaining my home and property, animals/pets, Call of Duty, Minecraft, action movies, TMNT, anime, tech, religion, ethics, fitness, music, nature, football, basketball, MMA, health, maroon/crimson colors, college football, coding, problem-solving, engineering, and I spend a lot of time pondering perpetual energy despite knowing it's a dead-end yet fun to wonder. And that's just from thinking for a little bit. lol.
-- I'm currently learning to code in order to transition into a career in software development. Javascript, HTML, CSS, Python, and whichever language any potential employer may ask me to learn!
-- I'm looking to collaborate on anything that will further my understanding, allow me to sharpen my skills, challenge me to learn and grow, and provide a fulfilling end goal. I have a particular interest in modular tech (specifically phones) and have been pointed in the direction of Purism which I intend to look at once I have more coding under my belt. 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/danielmalvarez/)
+#A little bit about me
+Hi! Thank you for visiting my GitHub profile! I am a Hispanic-American born to immigrant parents from Honduras and Peru. I pride myself in intentionally seeking out growth and understanding in my personal and professional life. Through that intentionality, I have learned a lot about myself and have had to confront habits, beliefs, and comforts that I once held close. My transition to a new career is one of the latest steps in my growth. As I transition to the tech industry, I am seeking out a workplace that will not only support my pursuit for growth and understanding but that will allow me to join them in their own pursuit of improvement. I think much can be achieved when we are willing to recognize the impact of what we do, as well as the ways our processes (and mindsets!) can be improved. If you would like to get in touch with me, I check my email and LinkedIn messages regularly and would love to connect!
+- [LinkedIn](https://www.linkedin.com/in/danielmalvarez/)
+- [Email](dannymalvarez@gmail.com)
+
+##What I am working on
+- Finishing up my software development bootcamp where I have been learning: Javascript, HTML, CSS, SQL, Python, C#, and .NET
+
+##What I would like to collaborate on
+- Projects that will be challenging and present me with an opportunity to learn, sharpen my skills, and grow
+
 
 <!---
 dannymalvarez/dannymalvarez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
