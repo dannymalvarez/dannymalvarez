@@ -10,7 +10,7 @@ I have decided to pursue a career in tech as a naturally curious person wanting 
 - Learning Angular and creating a side project to exercise those newly learned skills.
 
 ## What I would like to collaborate on
-- Projects with others I meet through LinkedIn networking like myself in order to work and learn together. 
+- Projects with others bootcamp graduates I meet through LinkedIn networking in order to work and learn together. 
 
 
 <!---
